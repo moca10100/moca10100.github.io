@@ -1,11 +1,12 @@
 mystyle.css
 
-h1{ font-size: 26px; }
-h2{ font-size: 20px; }
+h1{ font-size: 28px; }
+h2{ font-size: 22px; }
 h3{ font-size: 16px; }
 p{ font-weight: bold;
   color: purple;}
-
+li{ font-size: 22px; }
+ul{ font-size: 22px; }
 .a1{
             border:1px solid rgb(190, 125, 125); width: 100px; height: 100px
         }
